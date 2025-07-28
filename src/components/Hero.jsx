@@ -28,10 +28,10 @@ const Hero = () => {
           but also deliver results. Let’s create something extraordinary together.
         </p>
 
-        <div className="flex gap-4">
+        <div className="flex gap-4 ">
           <a
             href="mailto:gpatience14@gmail.com"
-            className="bg-[#4A6BA9] text-white px-6 py-3 rounded-full font-semibold hover:scale-105 transition shadow-md"
+            className="bg-[#4A6BA9] text-white animate-bounce px-6 py-3 rounded-full font-semibold hover:scale-105 transition shadow-md"
           >
             Let’s Connect
           </a>
@@ -64,7 +64,7 @@ const Hero = () => {
             <FaInstagram size={22} />
           </a>
           <a
-            href="#"
+            href="https://web.facebook.com/grace.affel.313/"
             className="hover:text-[#6E8BC2]"
           >
             <FaFacebook size={22} />
